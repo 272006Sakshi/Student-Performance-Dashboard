@@ -61,5 +61,5 @@ The dataset contains records of 100 students and includes:
 
 ### 1. Clone this Repository
 ```bash
-git clone https://github.com/yourusername/student-performance-dashboard.git
+git clone https://github.com/272006Sakshi/student-performance-dashboard.git
 cd student-performance-dashboard
